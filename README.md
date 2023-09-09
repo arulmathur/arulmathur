@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me :
 - 📚 Studying Computer Science and Engineering at UCLA 
 - 👾 Interested in software engineering, product management, and entrepreneurship  
-- 🧠 Learning full stack development with React  
+- 🧠 Learning full stack development
 - 🔍 Researching computer vision and depth mapping  
 - 🔥 Fun fact: I started a wildfire technology business in high school
 
