@@ -1,36 +1,18 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
-  <h1>Hi, I'm Arul&nbsp <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/arulmathur/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:arulmathur1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
-</div>
+# Hello, I'm Arul
 
----
+## About
 
-### 👨‍💻 About Me :
-- 📚 Studying Computer Science and Engineering at UCLA 
-- 👾 Interested in product management, software engineering, and entrepreneurship  
-- 🧠 Learning full stack development
-- 🔍 Researching computer vision and depth mapping
-- 🔥 Fun fact: I built a six-figure a wildfire technology startup in my garage
+I’m Arul, a Computer Science and Engineering student at UCLA. I fell in love with the world of product and entrepreneurship while building side projects for fun.
 
+Outside of work, I enjoy obsessing over consumer technology, psychology, fitness, and minimalism. I'm always interested in meeting new people — reach out if you're up for a chat!
 
-### 🛠️ Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" **alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Open CV" alt="Open CV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-</div>
+## Experience
+
+- **Google** - Technical Program Manager Intern *(Incoming Summer 2025)*
+- **Wildland** - Founder & CEO *(2021-2025)*
+- **Anecdote** - Product Manager Intern *(Jul 2024 - Dec 2024)*
+- **Zette** - Software Engineer Intern *(Sep 2023 - Feb 2024)*
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/arulmathur) | [Website](arulmathur.com) | [Email](mailto:arulmathur1@ucla.edu)
