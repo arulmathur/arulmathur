@@ -8,9 +8,9 @@ Outside of work, I enjoy obsessing over consumer technology, psychology, fitness
 
 ## Experience
 
-- **Google** - Technical Program Manager Intern *(Incoming Summer 2025)*
+- **Google** - Technical Program Manager Intern *(Summer 2025)*
 - **Wildland** - Founder & CEO *(2021-2025)*
-- **Anecdote** - Product Manager Intern *(Jul 2024 - Dec 2024)*
+- **Clarity** - Product Manager Intern *(Jul 2024 - Dec 2024)*
 - **Zette** - Software Engineer Intern *(Sep 2023 - Feb 2024)*
 
 ## Connect
